@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Estou trabalhando em um projeto portifólio
-- 🌱 Terminando um curso de orientação a objetos & estrutura de dados
+- 🔭 Pequenos projetinhos
+- 🌱 batalhando para me tornar um mestre jedi dos códigos
 - 💬 Curso ADS e meu foco é estagiar nesse momento
-- 📫 contatonathancf@gmail.com
+- 📫 nathancferreira00@gmail.com
 
